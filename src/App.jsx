@@ -78,7 +78,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Personal Stylist</h1>
+      <h1>Personal Stylist (Preview)</h1>
       <p>Please provide your information below to get started.</p>
 
       <form className="profile-form" onSubmit={handleSubmit}>
